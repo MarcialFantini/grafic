@@ -26,6 +26,8 @@ export const ContainerClient = styled.div`
     border-radius: 10%;
     height: auto;
     max-height: 450px;
+    border: 2px solid white;
+    box-shadow: 0 0 5px 1px black;
 `
 
 export const IconClient = styled.div`
