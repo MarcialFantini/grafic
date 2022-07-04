@@ -5,5 +5,5 @@ export const ContainerGrid = styled.div`
     height: auto;
 
     display: grid;
-    grid-column: repeat(auto-fit,minmax(280px,450px));
+    grid-template-columns: repeat( auto-fit, minmax(390px, 1fr) );
 `
